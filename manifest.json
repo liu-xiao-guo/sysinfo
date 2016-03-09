@@ -1,0 +1,15 @@
+{
+    "name": "sysinfo.liu-xiao-guo",
+    "description": "description of SysInfo",
+    "architecture": "all",
+    "title": "SysInfo",
+    "hooks": {
+        "SysInfo": {
+            "apparmor": "SysInfo.apparmor",
+            "desktop": "SysInfo.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

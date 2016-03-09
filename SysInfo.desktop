@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SysInfo
+Exec=qmlscene $@ Main.qml
+Icon=SysInfo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
